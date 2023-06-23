@@ -1,0 +1,25 @@
+/* the styles for the footer */
+
+body {
+    font-family: Century;
+    font-size: 100%;
+    width: 800px;
+    margin: 0 auto;
+    border: 3px solid paleturquoise;
+    background-color: white;
+}
+
+.shadow {
+    text-shadow: 2px 2px 2px cadetblue;
+    border: 2px solid #000000;
+}
+footer {
+    background-color: lightpink;
+    clear: both;
+    font-family: "Microsoft New Tai Lue";
+}
+footer p {
+    text-align: center;
+    color: black;
+    padding: 1em 0;
+}
